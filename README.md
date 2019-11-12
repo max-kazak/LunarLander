@@ -5,6 +5,8 @@ The goal of this project is to apply Reinforcement Learning techniques in combin
 
 Training process explores hyperspace of various hyperparameters to find optimal combination for the best performance.
 
+Summary of the experiment setup and its results can be found in Report.pdf
+
 ## Environment
 To run this code one has to create _python 3_ environment with following libraries:
 
